@@ -1,0 +1,7 @@
+
+//https://api.themoviedb.org/3/movie/latest?api_key=8713db73f77298b0740945f23c34bffa&language=en-US
+https://api.themoviedb.org/3/trending/all/day?api_key=8713db73f77298b0740945f23c34bffa
+
+
+
+flutter pub run build_runner build --delete-conflicting-outputs
